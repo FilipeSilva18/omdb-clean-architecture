@@ -1,0 +1,11 @@
+<resources>
+    <string name="movies_title">CINE SKY</string>
+    <string name="movies_detail_title">Detail Movie</string>
+    <string name="subtitle_home">Uma seleção de filmes imperdíveis:</string>
+    <string name="movie_detail_year">Year: %s</string>
+    <string name="movie_list_search">Digite o nome do filme</string>
+    <string name="paging_error_message">Não foi possível carregar mais itens.</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="movie_detail_save_movie">Salvar Filme</string>
+
+</resources>
